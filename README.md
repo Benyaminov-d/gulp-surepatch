@@ -14,7 +14,7 @@ npm install gulp-surepatch --save-dev
 Once the plugin has been installed, it may be enabled inside your Gulpfile with this line of JavaScript:
 
 ```js
-    surepath.run(...)
+surepath.run(...)
 ```
 
 ## The "surepatch" task
