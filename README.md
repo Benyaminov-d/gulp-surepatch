@@ -25,11 +25,11 @@ In your project's Gulpfile, add a gulp task and provide path to file, data objec
 gulp.task('surepath', () => {
 	return gulp.src('Path to file')
 		.pipe(
-            surepath.run({
-                auth_token: 'Your user token from SurePatch'
-                project_token: 'Your project token from SurePatch',
-            })
-        )
+			surepath.run({
+				auth_token: 'Your user token from SurePatch'
+				project_token: 'Your project token from SurePatch',
+			})
+		)
 });
 ```
 #### auth_token
