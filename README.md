@@ -1,4 +1,4 @@
-# guдз-surepatch
+# gulp-surepatch
 
 > helps you secure your most valuable systems and data
 
